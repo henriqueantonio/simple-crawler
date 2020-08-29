@@ -1,0 +1,9 @@
+{
+  "name": "default",
+  "type": "mongodb",
+  "host": "localhost",
+  "port": 27017,
+  "database": "factobrasil-crawler",
+  "entities": ["./src/modules/**/infra/typeorm/schemas/*.ts"],
+  "useUnifiedTopology": true
+}
