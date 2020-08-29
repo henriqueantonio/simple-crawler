@@ -5,6 +5,14 @@ This repository has two folders:
 - **backend** - A folder for backend project made in NodeJS and Express.
 - **frontend** - A folder for web project made in React.
 
+## 🗾 Images
+
+<h1 align="center">
+  <img src="imgs/img3.png" alt="web"/>
+  <img src="imgs/img2.png" alt="web"/>
+  <img src="imgs/img1.png" alt="web"/>
+<h1>
+  
 ## 📋 Requirements
 
 - **Yarn** or npm;
