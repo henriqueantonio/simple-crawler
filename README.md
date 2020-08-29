@@ -37,7 +37,7 @@ git clone https://github.com/henriqueantonio/factobrasil-crawler.git
 
 ```bash
   # enter the repository and use yarn tu run the dependencies
-  cd .. && cd factobrasil-crawler/frontend && yarn
+  cd .. && cd frontend && yarn
 
   # run the application
   yarn start
