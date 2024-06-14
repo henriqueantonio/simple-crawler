@@ -1,4 +1,4 @@
-# Facto Brasil Crawler Project
+# Simple Crawler Project
 
 This repository has two folders:
 
